@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-31T10:36:30.647+00:00","modified":"2025-10-31T13:11:47.053+00:00","tags":["shadowdark"],"cssclasses":""}
+{"publish":true,"created":"2025-10-31T10:36:30.647+00:00","modified":"2025-10-31T13:14:04.705+00:00","tags":["shadowdark"],"cssclasses":""}
 ---
 
 
@@ -12,7 +12,7 @@ In total I spent about 2 hours reading through about half of the keyed room desc
 
 # First Session
 
-It went badly
+It went goodly
 
 # Factions
 
