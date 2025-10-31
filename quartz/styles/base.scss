@@ -631,3 +631,13 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+.page-title {
+  font-size: 4rem;
+  margin: 0;
+  font-family: var(--titleFont);
+
+  @media all and ($mobile) {
+    font-size: 2rem;
+  }
+}
