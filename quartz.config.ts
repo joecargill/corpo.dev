@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         title: "Odibee Sans",
         // header: "Odibee Sans",
-        header: "Nova Cut",
+        header: "Iceberg",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
