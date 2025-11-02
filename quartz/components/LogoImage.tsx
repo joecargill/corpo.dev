@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 export default (() => {
   const LogoImage: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
-    const baseUrl = process.env.NODE_ENV === "development" ? "http://localhost:8080" : cfg.baseUrl; 
+    const baseUrl = process.env.NODE_ENV === "development" ? "http://localhost:8080" : `https://${cfg.baseUrl}`; 
     const source = `${baseUrl}/static/developedbycorpo-white.png`;
     return <img src={source}></img>
   }
